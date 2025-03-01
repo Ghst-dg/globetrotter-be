@@ -1,0 +1,902 @@
+[
+    {
+        "name": "Eiffel Tower, Paris (1)",
+        "clues": [
+            "I sparkle for 5 minutes every hour after sunset.",
+            "I was once the tallest structure in the world."
+        ],
+        "fun_fact": "The Eiffel Tower grows about 6 inches in summer due to heat expansion.",
+        "trivia": "How many rivets were used to build me? (Answer: 2.5 million)"
+    },
+    {
+        "name": "Great Wall of China (1)",
+        "clues": [
+            "I stretch over 13,000 miles across my country.",
+            "Contrary to popular belief, I am not visible from the moon."
+        ],
+        "fun_fact": "Some parts of the Great Wall date back over 2,000 years.",
+        "trivia": "Which dynasty built the most famous sections of me? (Answer: Ming Dynasty)"
+    },
+    {
+        "name": "Machu Picchu, Peru (1)",
+        "clues": [
+            "I was rediscovered by Hiram Bingham in 1911.",
+            "I am a lost Incan city in the Andes Mountains."
+        ],
+        "fun_fact": "Machu Picchu was never found by the Spanish conquistadors.",
+        "trivia": "What does \u2018Machu Picchu\u2019 mean in Quechua? (Answer: Old Peak)"
+    },
+    {
+        "name": "Statue of Liberty, USA (1)",
+        "clues": [
+            "A gift from France, I hold a torch in my right hand.",
+            "My original color was brown before I turned green."
+        ],
+        "fun_fact": "The Statue of Liberty\u2019s full name is 'Liberty Enlightening the World'.",
+        "trivia": "How many spikes are on my crown? (Answer: 7)"
+    },
+    {
+        "name": "Taj Mahal, India (1)",
+        "clues": [
+            "I was built by an emperor in memory of his wife.",
+            "My walls change color depending on the sunlight."
+        ],
+        "fun_fact": "The Taj Mahal's minarets are slightly tilted outward to protect it from earthquakes.",
+        "trivia": "Which Mughal emperor built me? (Answer: Shah Jahan)"
+    },
+    {
+        "name": "Colosseum, Rome (1)",
+        "clues": [
+            "I once hosted gladiator battles.",
+            "Despite my damage, I remain one of Rome\u2019s biggest attractions."
+        ],
+        "fun_fact": "Over 500,000 people and a million animals died in battles held at the Colosseum.",
+        "trivia": "What was my original name? (Answer: Flavian Amphitheater)"
+    },
+    {
+        "name": "Sydney Opera House, Australia (1)",
+        "clues": [
+            "I look like a series of giant seashells.",
+            "I host over 1,500 performances every year."
+        ],
+        "fun_fact": "The Sydney Opera House took 14 years to build.",
+        "trivia": "Which Danish architect designed me? (Answer: J\u00f8rn Utzon)"
+    },
+    {
+        "name": "Christ the Redeemer, Brazil (1)",
+        "clues": [
+            "I stand tall over Rio de Janeiro with my arms wide open.",
+            "I was completed in 1931 and named one of the New Seven Wonders."
+        ],
+        "fun_fact": "The Christ the Redeemer statue is 98 feet tall with a 92-foot-wide arm span.",
+        "trivia": "What material is my outer layer made of? (Answer: Soapstone)"
+    },
+    {
+        "name": "Pyramids of Giza, Egypt (1)",
+        "clues": [
+            "I am the last surviving wonder of the ancient world.",
+            "My largest structure is named after Pharaoh Khufu."
+        ],
+        "fun_fact": "The Great Pyramid was the tallest man-made structure for over 3,800 years.",
+        "trivia": "How many pyramids are there in Giza? (Answer: 3 main pyramids)"
+    },
+    {
+        "name": "Niagara Falls, Canada/USA (1)",
+        "clues": [
+            "I am actually three waterfalls combined.",
+            "I am located on the border of two countries."
+        ],
+        "fun_fact": "Niagara Falls can produce over 4 million kilowatts of electricity.",
+        "trivia": "Which is the largest of the three waterfalls? (Answer: Horseshoe Falls)"
+    },
+    {
+        "name": "Eiffel Tower, Paris (2)",
+        "clues": [
+            "I sparkle for 5 minutes every hour after sunset.",
+            "I was once the tallest structure in the world."
+        ],
+        "fun_fact": "The Eiffel Tower grows about 6 inches in summer due to heat expansion.",
+        "trivia": "How many rivets were used to build me? (Answer: 2.5 million)"
+    },
+    {
+        "name": "Great Wall of China (2)",
+        "clues": [
+            "I stretch over 13,000 miles across my country.",
+            "Contrary to popular belief, I am not visible from the moon."
+        ],
+        "fun_fact": "Some parts of the Great Wall date back over 2,000 years.",
+        "trivia": "Which dynasty built the most famous sections of me? (Answer: Ming Dynasty)"
+    },
+    {
+        "name": "Machu Picchu, Peru (2)",
+        "clues": [
+            "I was rediscovered by Hiram Bingham in 1911.",
+            "I am a lost Incan city in the Andes Mountains."
+        ],
+        "fun_fact": "Machu Picchu was never found by the Spanish conquistadors.",
+        "trivia": "What does \u2018Machu Picchu\u2019 mean in Quechua? (Answer: Old Peak)"
+    },
+    {
+        "name": "Statue of Liberty, USA (2)",
+        "clues": [
+            "A gift from France, I hold a torch in my right hand.",
+            "My original color was brown before I turned green."
+        ],
+        "fun_fact": "The Statue of Liberty\u2019s full name is 'Liberty Enlightening the World'.",
+        "trivia": "How many spikes are on my crown? (Answer: 7)"
+    },
+    {
+        "name": "Taj Mahal, India (2)",
+        "clues": [
+            "I was built by an emperor in memory of his wife.",
+            "My walls change color depending on the sunlight."
+        ],
+        "fun_fact": "The Taj Mahal's minarets are slightly tilted outward to protect it from earthquakes.",
+        "trivia": "Which Mughal emperor built me? (Answer: Shah Jahan)"
+    },
+    {
+        "name": "Colosseum, Rome (2)",
+        "clues": [
+            "I once hosted gladiator battles.",
+            "Despite my damage, I remain one of Rome\u2019s biggest attractions."
+        ],
+        "fun_fact": "Over 500,000 people and a million animals died in battles held at the Colosseum.",
+        "trivia": "What was my original name? (Answer: Flavian Amphitheater)"
+    },
+    {
+        "name": "Sydney Opera House, Australia (2)",
+        "clues": [
+            "I look like a series of giant seashells.",
+            "I host over 1,500 performances every year."
+        ],
+        "fun_fact": "The Sydney Opera House took 14 years to build.",
+        "trivia": "Which Danish architect designed me? (Answer: J\u00f8rn Utzon)"
+    },
+    {
+        "name": "Christ the Redeemer, Brazil (2)",
+        "clues": [
+            "I stand tall over Rio de Janeiro with my arms wide open.",
+            "I was completed in 1931 and named one of the New Seven Wonders."
+        ],
+        "fun_fact": "The Christ the Redeemer statue is 98 feet tall with a 92-foot-wide arm span.",
+        "trivia": "What material is my outer layer made of? (Answer: Soapstone)"
+    },
+    {
+        "name": "Pyramids of Giza, Egypt (2)",
+        "clues": [
+            "I am the last surviving wonder of the ancient world.",
+            "My largest structure is named after Pharaoh Khufu."
+        ],
+        "fun_fact": "The Great Pyramid was the tallest man-made structure for over 3,800 years.",
+        "trivia": "How many pyramids are there in Giza? (Answer: 3 main pyramids)"
+    },
+    {
+        "name": "Niagara Falls, Canada/USA (2)",
+        "clues": [
+            "I am actually three waterfalls combined.",
+            "I am located on the border of two countries."
+        ],
+        "fun_fact": "Niagara Falls can produce over 4 million kilowatts of electricity.",
+        "trivia": "Which is the largest of the three waterfalls? (Answer: Horseshoe Falls)"
+    },
+    {
+        "name": "Eiffel Tower, Paris (3)",
+        "clues": [
+            "I sparkle for 5 minutes every hour after sunset.",
+            "I was once the tallest structure in the world."
+        ],
+        "fun_fact": "The Eiffel Tower grows about 6 inches in summer due to heat expansion.",
+        "trivia": "How many rivets were used to build me? (Answer: 2.5 million)"
+    },
+    {
+        "name": "Great Wall of China (3)",
+        "clues": [
+            "I stretch over 13,000 miles across my country.",
+            "Contrary to popular belief, I am not visible from the moon."
+        ],
+        "fun_fact": "Some parts of the Great Wall date back over 2,000 years.",
+        "trivia": "Which dynasty built the most famous sections of me? (Answer: Ming Dynasty)"
+    },
+    {
+        "name": "Machu Picchu, Peru (3)",
+        "clues": [
+            "I was rediscovered by Hiram Bingham in 1911.",
+            "I am a lost Incan city in the Andes Mountains."
+        ],
+        "fun_fact": "Machu Picchu was never found by the Spanish conquistadors.",
+        "trivia": "What does \u2018Machu Picchu\u2019 mean in Quechua? (Answer: Old Peak)"
+    },
+    {
+        "name": "Statue of Liberty, USA (3)",
+        "clues": [
+            "A gift from France, I hold a torch in my right hand.",
+            "My original color was brown before I turned green."
+        ],
+        "fun_fact": "The Statue of Liberty\u2019s full name is 'Liberty Enlightening the World'.",
+        "trivia": "How many spikes are on my crown? (Answer: 7)"
+    },
+    {
+        "name": "Taj Mahal, India (3)",
+        "clues": [
+            "I was built by an emperor in memory of his wife.",
+            "My walls change color depending on the sunlight."
+        ],
+        "fun_fact": "The Taj Mahal's minarets are slightly tilted outward to protect it from earthquakes.",
+        "trivia": "Which Mughal emperor built me? (Answer: Shah Jahan)"
+    },
+    {
+        "name": "Colosseum, Rome (3)",
+        "clues": [
+            "I once hosted gladiator battles.",
+            "Despite my damage, I remain one of Rome\u2019s biggest attractions."
+        ],
+        "fun_fact": "Over 500,000 people and a million animals died in battles held at the Colosseum.",
+        "trivia": "What was my original name? (Answer: Flavian Amphitheater)"
+    },
+    {
+        "name": "Sydney Opera House, Australia (3)",
+        "clues": [
+            "I look like a series of giant seashells.",
+            "I host over 1,500 performances every year."
+        ],
+        "fun_fact": "The Sydney Opera House took 14 years to build.",
+        "trivia": "Which Danish architect designed me? (Answer: J\u00f8rn Utzon)"
+    },
+    {
+        "name": "Christ the Redeemer, Brazil (3)",
+        "clues": [
+            "I stand tall over Rio de Janeiro with my arms wide open.",
+            "I was completed in 1931 and named one of the New Seven Wonders."
+        ],
+        "fun_fact": "The Christ the Redeemer statue is 98 feet tall with a 92-foot-wide arm span.",
+        "trivia": "What material is my outer layer made of? (Answer: Soapstone)"
+    },
+    {
+        "name": "Pyramids of Giza, Egypt (3)",
+        "clues": [
+            "I am the last surviving wonder of the ancient world.",
+            "My largest structure is named after Pharaoh Khufu."
+        ],
+        "fun_fact": "The Great Pyramid was the tallest man-made structure for over 3,800 years.",
+        "trivia": "How many pyramids are there in Giza? (Answer: 3 main pyramids)"
+    },
+    {
+        "name": "Niagara Falls, Canada/USA (3)",
+        "clues": [
+            "I am actually three waterfalls combined.",
+            "I am located on the border of two countries."
+        ],
+        "fun_fact": "Niagara Falls can produce over 4 million kilowatts of electricity.",
+        "trivia": "Which is the largest of the three waterfalls? (Answer: Horseshoe Falls)"
+    },
+    {
+        "name": "Eiffel Tower, Paris (4)",
+        "clues": [
+            "I sparkle for 5 minutes every hour after sunset.",
+            "I was once the tallest structure in the world."
+        ],
+        "fun_fact": "The Eiffel Tower grows about 6 inches in summer due to heat expansion.",
+        "trivia": "How many rivets were used to build me? (Answer: 2.5 million)"
+    },
+    {
+        "name": "Great Wall of China (4)",
+        "clues": [
+            "I stretch over 13,000 miles across my country.",
+            "Contrary to popular belief, I am not visible from the moon."
+        ],
+        "fun_fact": "Some parts of the Great Wall date back over 2,000 years.",
+        "trivia": "Which dynasty built the most famous sections of me? (Answer: Ming Dynasty)"
+    },
+    {
+        "name": "Machu Picchu, Peru (4)",
+        "clues": [
+            "I was rediscovered by Hiram Bingham in 1911.",
+            "I am a lost Incan city in the Andes Mountains."
+        ],
+        "fun_fact": "Machu Picchu was never found by the Spanish conquistadors.",
+        "trivia": "What does \u2018Machu Picchu\u2019 mean in Quechua? (Answer: Old Peak)"
+    },
+    {
+        "name": "Statue of Liberty, USA (4)",
+        "clues": [
+            "A gift from France, I hold a torch in my right hand.",
+            "My original color was brown before I turned green."
+        ],
+        "fun_fact": "The Statue of Liberty\u2019s full name is 'Liberty Enlightening the World'.",
+        "trivia": "How many spikes are on my crown? (Answer: 7)"
+    },
+    {
+        "name": "Taj Mahal, India (4)",
+        "clues": [
+            "I was built by an emperor in memory of his wife.",
+            "My walls change color depending on the sunlight."
+        ],
+        "fun_fact": "The Taj Mahal's minarets are slightly tilted outward to protect it from earthquakes.",
+        "trivia": "Which Mughal emperor built me? (Answer: Shah Jahan)"
+    },
+    {
+        "name": "Colosseum, Rome (4)",
+        "clues": [
+            "I once hosted gladiator battles.",
+            "Despite my damage, I remain one of Rome\u2019s biggest attractions."
+        ],
+        "fun_fact": "Over 500,000 people and a million animals died in battles held at the Colosseum.",
+        "trivia": "What was my original name? (Answer: Flavian Amphitheater)"
+    },
+    {
+        "name": "Sydney Opera House, Australia (4)",
+        "clues": [
+            "I look like a series of giant seashells.",
+            "I host over 1,500 performances every year."
+        ],
+        "fun_fact": "The Sydney Opera House took 14 years to build.",
+        "trivia": "Which Danish architect designed me? (Answer: J\u00f8rn Utzon)"
+    },
+    {
+        "name": "Christ the Redeemer, Brazil (4)",
+        "clues": [
+            "I stand tall over Rio de Janeiro with my arms wide open.",
+            "I was completed in 1931 and named one of the New Seven Wonders."
+        ],
+        "fun_fact": "The Christ the Redeemer statue is 98 feet tall with a 92-foot-wide arm span.",
+        "trivia": "What material is my outer layer made of? (Answer: Soapstone)"
+    },
+    {
+        "name": "Pyramids of Giza, Egypt (4)",
+        "clues": [
+            "I am the last surviving wonder of the ancient world.",
+            "My largest structure is named after Pharaoh Khufu."
+        ],
+        "fun_fact": "The Great Pyramid was the tallest man-made structure for over 3,800 years.",
+        "trivia": "How many pyramids are there in Giza? (Answer: 3 main pyramids)"
+    },
+    {
+        "name": "Niagara Falls, Canada/USA (4)",
+        "clues": [
+            "I am actually three waterfalls combined.",
+            "I am located on the border of two countries."
+        ],
+        "fun_fact": "Niagara Falls can produce over 4 million kilowatts of electricity.",
+        "trivia": "Which is the largest of the three waterfalls? (Answer: Horseshoe Falls)"
+    },
+    {
+        "name": "Eiffel Tower, Paris (5)",
+        "clues": [
+            "I sparkle for 5 minutes every hour after sunset.",
+            "I was once the tallest structure in the world."
+        ],
+        "fun_fact": "The Eiffel Tower grows about 6 inches in summer due to heat expansion.",
+        "trivia": "How many rivets were used to build me? (Answer: 2.5 million)"
+    },
+    {
+        "name": "Great Wall of China (5)",
+        "clues": [
+            "I stretch over 13,000 miles across my country.",
+            "Contrary to popular belief, I am not visible from the moon."
+        ],
+        "fun_fact": "Some parts of the Great Wall date back over 2,000 years.",
+        "trivia": "Which dynasty built the most famous sections of me? (Answer: Ming Dynasty)"
+    },
+    {
+        "name": "Machu Picchu, Peru (5)",
+        "clues": [
+            "I was rediscovered by Hiram Bingham in 1911.",
+            "I am a lost Incan city in the Andes Mountains."
+        ],
+        "fun_fact": "Machu Picchu was never found by the Spanish conquistadors.",
+        "trivia": "What does \u2018Machu Picchu\u2019 mean in Quechua? (Answer: Old Peak)"
+    },
+    {
+        "name": "Statue of Liberty, USA (5)",
+        "clues": [
+            "A gift from France, I hold a torch in my right hand.",
+            "My original color was brown before I turned green."
+        ],
+        "fun_fact": "The Statue of Liberty\u2019s full name is 'Liberty Enlightening the World'.",
+        "trivia": "How many spikes are on my crown? (Answer: 7)"
+    },
+    {
+        "name": "Taj Mahal, India (5)",
+        "clues": [
+            "I was built by an emperor in memory of his wife.",
+            "My walls change color depending on the sunlight."
+        ],
+        "fun_fact": "The Taj Mahal's minarets are slightly tilted outward to protect it from earthquakes.",
+        "trivia": "Which Mughal emperor built me? (Answer: Shah Jahan)"
+    },
+    {
+        "name": "Colosseum, Rome (5)",
+        "clues": [
+            "I once hosted gladiator battles.",
+            "Despite my damage, I remain one of Rome\u2019s biggest attractions."
+        ],
+        "fun_fact": "Over 500,000 people and a million animals died in battles held at the Colosseum.",
+        "trivia": "What was my original name? (Answer: Flavian Amphitheater)"
+    },
+    {
+        "name": "Sydney Opera House, Australia (5)",
+        "clues": [
+            "I look like a series of giant seashells.",
+            "I host over 1,500 performances every year."
+        ],
+        "fun_fact": "The Sydney Opera House took 14 years to build.",
+        "trivia": "Which Danish architect designed me? (Answer: J\u00f8rn Utzon)"
+    },
+    {
+        "name": "Christ the Redeemer, Brazil (5)",
+        "clues": [
+            "I stand tall over Rio de Janeiro with my arms wide open.",
+            "I was completed in 1931 and named one of the New Seven Wonders."
+        ],
+        "fun_fact": "The Christ the Redeemer statue is 98 feet tall with a 92-foot-wide arm span.",
+        "trivia": "What material is my outer layer made of? (Answer: Soapstone)"
+    },
+    {
+        "name": "Pyramids of Giza, Egypt (5)",
+        "clues": [
+            "I am the last surviving wonder of the ancient world.",
+            "My largest structure is named after Pharaoh Khufu."
+        ],
+        "fun_fact": "The Great Pyramid was the tallest man-made structure for over 3,800 years.",
+        "trivia": "How many pyramids are there in Giza? (Answer: 3 main pyramids)"
+    },
+    {
+        "name": "Niagara Falls, Canada/USA (5)",
+        "clues": [
+            "I am actually three waterfalls combined.",
+            "I am located on the border of two countries."
+        ],
+        "fun_fact": "Niagara Falls can produce over 4 million kilowatts of electricity.",
+        "trivia": "Which is the largest of the three waterfalls? (Answer: Horseshoe Falls)"
+    },
+    {
+        "name": "Eiffel Tower, Paris (6)",
+        "clues": [
+            "I sparkle for 5 minutes every hour after sunset.",
+            "I was once the tallest structure in the world."
+        ],
+        "fun_fact": "The Eiffel Tower grows about 6 inches in summer due to heat expansion.",
+        "trivia": "How many rivets were used to build me? (Answer: 2.5 million)"
+    },
+    {
+        "name": "Great Wall of China (6)",
+        "clues": [
+            "I stretch over 13,000 miles across my country.",
+            "Contrary to popular belief, I am not visible from the moon."
+        ],
+        "fun_fact": "Some parts of the Great Wall date back over 2,000 years.",
+        "trivia": "Which dynasty built the most famous sections of me? (Answer: Ming Dynasty)"
+    },
+    {
+        "name": "Machu Picchu, Peru (6)",
+        "clues": [
+            "I was rediscovered by Hiram Bingham in 1911.",
+            "I am a lost Incan city in the Andes Mountains."
+        ],
+        "fun_fact": "Machu Picchu was never found by the Spanish conquistadors.",
+        "trivia": "What does \u2018Machu Picchu\u2019 mean in Quechua? (Answer: Old Peak)"
+    },
+    {
+        "name": "Statue of Liberty, USA (6)",
+        "clues": [
+            "A gift from France, I hold a torch in my right hand.",
+            "My original color was brown before I turned green."
+        ],
+        "fun_fact": "The Statue of Liberty\u2019s full name is 'Liberty Enlightening the World'.",
+        "trivia": "How many spikes are on my crown? (Answer: 7)"
+    },
+    {
+        "name": "Taj Mahal, India (6)",
+        "clues": [
+            "I was built by an emperor in memory of his wife.",
+            "My walls change color depending on the sunlight."
+        ],
+        "fun_fact": "The Taj Mahal's minarets are slightly tilted outward to protect it from earthquakes.",
+        "trivia": "Which Mughal emperor built me? (Answer: Shah Jahan)"
+    },
+    {
+        "name": "Colosseum, Rome (6)",
+        "clues": [
+            "I once hosted gladiator battles.",
+            "Despite my damage, I remain one of Rome\u2019s biggest attractions."
+        ],
+        "fun_fact": "Over 500,000 people and a million animals died in battles held at the Colosseum.",
+        "trivia": "What was my original name? (Answer: Flavian Amphitheater)"
+    },
+    {
+        "name": "Sydney Opera House, Australia (6)",
+        "clues": [
+            "I look like a series of giant seashells.",
+            "I host over 1,500 performances every year."
+        ],
+        "fun_fact": "The Sydney Opera House took 14 years to build.",
+        "trivia": "Which Danish architect designed me? (Answer: J\u00f8rn Utzon)"
+    },
+    {
+        "name": "Christ the Redeemer, Brazil (6)",
+        "clues": [
+            "I stand tall over Rio de Janeiro with my arms wide open.",
+            "I was completed in 1931 and named one of the New Seven Wonders."
+        ],
+        "fun_fact": "The Christ the Redeemer statue is 98 feet tall with a 92-foot-wide arm span.",
+        "trivia": "What material is my outer layer made of? (Answer: Soapstone)"
+    },
+    {
+        "name": "Pyramids of Giza, Egypt (6)",
+        "clues": [
+            "I am the last surviving wonder of the ancient world.",
+            "My largest structure is named after Pharaoh Khufu."
+        ],
+        "fun_fact": "The Great Pyramid was the tallest man-made structure for over 3,800 years.",
+        "trivia": "How many pyramids are there in Giza? (Answer: 3 main pyramids)"
+    },
+    {
+        "name": "Niagara Falls, Canada/USA (6)",
+        "clues": [
+            "I am actually three waterfalls combined.",
+            "I am located on the border of two countries."
+        ],
+        "fun_fact": "Niagara Falls can produce over 4 million kilowatts of electricity.",
+        "trivia": "Which is the largest of the three waterfalls? (Answer: Horseshoe Falls)"
+    },
+    {
+        "name": "Eiffel Tower, Paris (7)",
+        "clues": [
+            "I sparkle for 5 minutes every hour after sunset.",
+            "I was once the tallest structure in the world."
+        ],
+        "fun_fact": "The Eiffel Tower grows about 6 inches in summer due to heat expansion.",
+        "trivia": "How many rivets were used to build me? (Answer: 2.5 million)"
+    },
+    {
+        "name": "Great Wall of China (7)",
+        "clues": [
+            "I stretch over 13,000 miles across my country.",
+            "Contrary to popular belief, I am not visible from the moon."
+        ],
+        "fun_fact": "Some parts of the Great Wall date back over 2,000 years.",
+        "trivia": "Which dynasty built the most famous sections of me? (Answer: Ming Dynasty)"
+    },
+    {
+        "name": "Machu Picchu, Peru (7)",
+        "clues": [
+            "I was rediscovered by Hiram Bingham in 1911.",
+            "I am a lost Incan city in the Andes Mountains."
+        ],
+        "fun_fact": "Machu Picchu was never found by the Spanish conquistadors.",
+        "trivia": "What does \u2018Machu Picchu\u2019 mean in Quechua? (Answer: Old Peak)"
+    },
+    {
+        "name": "Statue of Liberty, USA (7)",
+        "clues": [
+            "A gift from France, I hold a torch in my right hand.",
+            "My original color was brown before I turned green."
+        ],
+        "fun_fact": "The Statue of Liberty\u2019s full name is 'Liberty Enlightening the World'.",
+        "trivia": "How many spikes are on my crown? (Answer: 7)"
+    },
+    {
+        "name": "Taj Mahal, India (7)",
+        "clues": [
+            "I was built by an emperor in memory of his wife.",
+            "My walls change color depending on the sunlight."
+        ],
+        "fun_fact": "The Taj Mahal's minarets are slightly tilted outward to protect it from earthquakes.",
+        "trivia": "Which Mughal emperor built me? (Answer: Shah Jahan)"
+    },
+    {
+        "name": "Colosseum, Rome (7)",
+        "clues": [
+            "I once hosted gladiator battles.",
+            "Despite my damage, I remain one of Rome\u2019s biggest attractions."
+        ],
+        "fun_fact": "Over 500,000 people and a million animals died in battles held at the Colosseum.",
+        "trivia": "What was my original name? (Answer: Flavian Amphitheater)"
+    },
+    {
+        "name": "Sydney Opera House, Australia (7)",
+        "clues": [
+            "I look like a series of giant seashells.",
+            "I host over 1,500 performances every year."
+        ],
+        "fun_fact": "The Sydney Opera House took 14 years to build.",
+        "trivia": "Which Danish architect designed me? (Answer: J\u00f8rn Utzon)"
+    },
+    {
+        "name": "Christ the Redeemer, Brazil (7)",
+        "clues": [
+            "I stand tall over Rio de Janeiro with my arms wide open.",
+            "I was completed in 1931 and named one of the New Seven Wonders."
+        ],
+        "fun_fact": "The Christ the Redeemer statue is 98 feet tall with a 92-foot-wide arm span.",
+        "trivia": "What material is my outer layer made of? (Answer: Soapstone)"
+    },
+    {
+        "name": "Pyramids of Giza, Egypt (7)",
+        "clues": [
+            "I am the last surviving wonder of the ancient world.",
+            "My largest structure is named after Pharaoh Khufu."
+        ],
+        "fun_fact": "The Great Pyramid was the tallest man-made structure for over 3,800 years.",
+        "trivia": "How many pyramids are there in Giza? (Answer: 3 main pyramids)"
+    },
+    {
+        "name": "Niagara Falls, Canada/USA (7)",
+        "clues": [
+            "I am actually three waterfalls combined.",
+            "I am located on the border of two countries."
+        ],
+        "fun_fact": "Niagara Falls can produce over 4 million kilowatts of electricity.",
+        "trivia": "Which is the largest of the three waterfalls? (Answer: Horseshoe Falls)"
+    },
+    {
+        "name": "Eiffel Tower, Paris (8)",
+        "clues": [
+            "I sparkle for 5 minutes every hour after sunset.",
+            "I was once the tallest structure in the world."
+        ],
+        "fun_fact": "The Eiffel Tower grows about 6 inches in summer due to heat expansion.",
+        "trivia": "How many rivets were used to build me? (Answer: 2.5 million)"
+    },
+    {
+        "name": "Great Wall of China (8)",
+        "clues": [
+            "I stretch over 13,000 miles across my country.",
+            "Contrary to popular belief, I am not visible from the moon."
+        ],
+        "fun_fact": "Some parts of the Great Wall date back over 2,000 years.",
+        "trivia": "Which dynasty built the most famous sections of me? (Answer: Ming Dynasty)"
+    },
+    {
+        "name": "Machu Picchu, Peru (8)",
+        "clues": [
+            "I was rediscovered by Hiram Bingham in 1911.",
+            "I am a lost Incan city in the Andes Mountains."
+        ],
+        "fun_fact": "Machu Picchu was never found by the Spanish conquistadors.",
+        "trivia": "What does \u2018Machu Picchu\u2019 mean in Quechua? (Answer: Old Peak)"
+    },
+    {
+        "name": "Statue of Liberty, USA (8)",
+        "clues": [
+            "A gift from France, I hold a torch in my right hand.",
+            "My original color was brown before I turned green."
+        ],
+        "fun_fact": "The Statue of Liberty\u2019s full name is 'Liberty Enlightening the World'.",
+        "trivia": "How many spikes are on my crown? (Answer: 7)"
+    },
+    {
+        "name": "Taj Mahal, India (8)",
+        "clues": [
+            "I was built by an emperor in memory of his wife.",
+            "My walls change color depending on the sunlight."
+        ],
+        "fun_fact": "The Taj Mahal's minarets are slightly tilted outward to protect it from earthquakes.",
+        "trivia": "Which Mughal emperor built me? (Answer: Shah Jahan)"
+    },
+    {
+        "name": "Colosseum, Rome (8)",
+        "clues": [
+            "I once hosted gladiator battles.",
+            "Despite my damage, I remain one of Rome\u2019s biggest attractions."
+        ],
+        "fun_fact": "Over 500,000 people and a million animals died in battles held at the Colosseum.",
+        "trivia": "What was my original name? (Answer: Flavian Amphitheater)"
+    },
+    {
+        "name": "Sydney Opera House, Australia (8)",
+        "clues": [
+            "I look like a series of giant seashells.",
+            "I host over 1,500 performances every year."
+        ],
+        "fun_fact": "The Sydney Opera House took 14 years to build.",
+        "trivia": "Which Danish architect designed me? (Answer: J\u00f8rn Utzon)"
+    },
+    {
+        "name": "Christ the Redeemer, Brazil (8)",
+        "clues": [
+            "I stand tall over Rio de Janeiro with my arms wide open.",
+            "I was completed in 1931 and named one of the New Seven Wonders."
+        ],
+        "fun_fact": "The Christ the Redeemer statue is 98 feet tall with a 92-foot-wide arm span.",
+        "trivia": "What material is my outer layer made of? (Answer: Soapstone)"
+    },
+    {
+        "name": "Pyramids of Giza, Egypt (8)",
+        "clues": [
+            "I am the last surviving wonder of the ancient world.",
+            "My largest structure is named after Pharaoh Khufu."
+        ],
+        "fun_fact": "The Great Pyramid was the tallest man-made structure for over 3,800 years.",
+        "trivia": "How many pyramids are there in Giza? (Answer: 3 main pyramids)"
+    },
+    {
+        "name": "Niagara Falls, Canada/USA (8)",
+        "clues": [
+            "I am actually three waterfalls combined.",
+            "I am located on the border of two countries."
+        ],
+        "fun_fact": "Niagara Falls can produce over 4 million kilowatts of electricity.",
+        "trivia": "Which is the largest of the three waterfalls? (Answer: Horseshoe Falls)"
+    },
+    {
+        "name": "Eiffel Tower, Paris (9)",
+        "clues": [
+            "I sparkle for 5 minutes every hour after sunset.",
+            "I was once the tallest structure in the world."
+        ],
+        "fun_fact": "The Eiffel Tower grows about 6 inches in summer due to heat expansion.",
+        "trivia": "How many rivets were used to build me? (Answer: 2.5 million)"
+    },
+    {
+        "name": "Great Wall of China (9)",
+        "clues": [
+            "I stretch over 13,000 miles across my country.",
+            "Contrary to popular belief, I am not visible from the moon."
+        ],
+        "fun_fact": "Some parts of the Great Wall date back over 2,000 years.",
+        "trivia": "Which dynasty built the most famous sections of me? (Answer: Ming Dynasty)"
+    },
+    {
+        "name": "Machu Picchu, Peru (9)",
+        "clues": [
+            "I was rediscovered by Hiram Bingham in 1911.",
+            "I am a lost Incan city in the Andes Mountains."
+        ],
+        "fun_fact": "Machu Picchu was never found by the Spanish conquistadors.",
+        "trivia": "What does \u2018Machu Picchu\u2019 mean in Quechua? (Answer: Old Peak)"
+    },
+    {
+        "name": "Statue of Liberty, USA (9)",
+        "clues": [
+            "A gift from France, I hold a torch in my right hand.",
+            "My original color was brown before I turned green."
+        ],
+        "fun_fact": "The Statue of Liberty\u2019s full name is 'Liberty Enlightening the World'.",
+        "trivia": "How many spikes are on my crown? (Answer: 7)"
+    },
+    {
+        "name": "Taj Mahal, India (9)",
+        "clues": [
+            "I was built by an emperor in memory of his wife.",
+            "My walls change color depending on the sunlight."
+        ],
+        "fun_fact": "The Taj Mahal's minarets are slightly tilted outward to protect it from earthquakes.",
+        "trivia": "Which Mughal emperor built me? (Answer: Shah Jahan)"
+    },
+    {
+        "name": "Colosseum, Rome (9)",
+        "clues": [
+            "I once hosted gladiator battles.",
+            "Despite my damage, I remain one of Rome\u2019s biggest attractions."
+        ],
+        "fun_fact": "Over 500,000 people and a million animals died in battles held at the Colosseum.",
+        "trivia": "What was my original name? (Answer: Flavian Amphitheater)"
+    },
+    {
+        "name": "Sydney Opera House, Australia (9)",
+        "clues": [
+            "I look like a series of giant seashells.",
+            "I host over 1,500 performances every year."
+        ],
+        "fun_fact": "The Sydney Opera House took 14 years to build.",
+        "trivia": "Which Danish architect designed me? (Answer: J\u00f8rn Utzon)"
+    },
+    {
+        "name": "Christ the Redeemer, Brazil (9)",
+        "clues": [
+            "I stand tall over Rio de Janeiro with my arms wide open.",
+            "I was completed in 1931 and named one of the New Seven Wonders."
+        ],
+        "fun_fact": "The Christ the Redeemer statue is 98 feet tall with a 92-foot-wide arm span.",
+        "trivia": "What material is my outer layer made of? (Answer: Soapstone)"
+    },
+    {
+        "name": "Pyramids of Giza, Egypt (9)",
+        "clues": [
+            "I am the last surviving wonder of the ancient world.",
+            "My largest structure is named after Pharaoh Khufu."
+        ],
+        "fun_fact": "The Great Pyramid was the tallest man-made structure for over 3,800 years.",
+        "trivia": "How many pyramids are there in Giza? (Answer: 3 main pyramids)"
+    },
+    {
+        "name": "Niagara Falls, Canada/USA (9)",
+        "clues": [
+            "I am actually three waterfalls combined.",
+            "I am located on the border of two countries."
+        ],
+        "fun_fact": "Niagara Falls can produce over 4 million kilowatts of electricity.",
+        "trivia": "Which is the largest of the three waterfalls? (Answer: Horseshoe Falls)"
+    },
+    {
+        "name": "Eiffel Tower, Paris (10)",
+        "clues": [
+            "I sparkle for 5 minutes every hour after sunset.",
+            "I was once the tallest structure in the world."
+        ],
+        "fun_fact": "The Eiffel Tower grows about 6 inches in summer due to heat expansion.",
+        "trivia": "How many rivets were used to build me? (Answer: 2.5 million)"
+    },
+    {
+        "name": "Great Wall of China (10)",
+        "clues": [
+            "I stretch over 13,000 miles across my country.",
+            "Contrary to popular belief, I am not visible from the moon."
+        ],
+        "fun_fact": "Some parts of the Great Wall date back over 2,000 years.",
+        "trivia": "Which dynasty built the most famous sections of me? (Answer: Ming Dynasty)"
+    },
+    {
+        "name": "Machu Picchu, Peru (10)",
+        "clues": [
+            "I was rediscovered by Hiram Bingham in 1911.",
+            "I am a lost Incan city in the Andes Mountains."
+        ],
+        "fun_fact": "Machu Picchu was never found by the Spanish conquistadors.",
+        "trivia": "What does \u2018Machu Picchu\u2019 mean in Quechua? (Answer: Old Peak)"
+    },
+    {
+        "name": "Statue of Liberty, USA (10)",
+        "clues": [
+            "A gift from France, I hold a torch in my right hand.",
+            "My original color was brown before I turned green."
+        ],
+        "fun_fact": "The Statue of Liberty\u2019s full name is 'Liberty Enlightening the World'.",
+        "trivia": "How many spikes are on my crown? (Answer: 7)"
+    },
+    {
+        "name": "Taj Mahal, India (10)",
+        "clues": [
+            "I was built by an emperor in memory of his wife.",
+            "My walls change color depending on the sunlight."
+        ],
+        "fun_fact": "The Taj Mahal's minarets are slightly tilted outward to protect it from earthquakes.",
+        "trivia": "Which Mughal emperor built me? (Answer: Shah Jahan)"
+    },
+    {
+        "name": "Colosseum, Rome (10)",
+        "clues": [
+            "I once hosted gladiator battles.",
+            "Despite my damage, I remain one of Rome\u2019s biggest attractions."
+        ],
+        "fun_fact": "Over 500,000 people and a million animals died in battles held at the Colosseum.",
+        "trivia": "What was my original name? (Answer: Flavian Amphitheater)"
+    },
+    {
+        "name": "Sydney Opera House, Australia (10)",
+        "clues": [
+            "I look like a series of giant seashells.",
+            "I host over 1,500 performances every year."
+        ],
+        "fun_fact": "The Sydney Opera House took 14 years to build.",
+        "trivia": "Which Danish architect designed me? (Answer: J\u00f8rn Utzon)"
+    },
+    {
+        "name": "Christ the Redeemer, Brazil (10)",
+        "clues": [
+            "I stand tall over Rio de Janeiro with my arms wide open.",
+            "I was completed in 1931 and named one of the New Seven Wonders."
+        ],
+        "fun_fact": "The Christ the Redeemer statue is 98 feet tall with a 92-foot-wide arm span.",
+        "trivia": "What material is my outer layer made of? (Answer: Soapstone)"
+    },
+    {
+        "name": "Pyramids of Giza, Egypt (10)",
+        "clues": [
+            "I am the last surviving wonder of the ancient world.",
+            "My largest structure is named after Pharaoh Khufu."
+        ],
+        "fun_fact": "The Great Pyramid was the tallest man-made structure for over 3,800 years.",
+        "trivia": "How many pyramids are there in Giza? (Answer: 3 main pyramids)"
+    },
+    {
+        "name": "Niagara Falls, Canada/USA (10)",
+        "clues": [
+            "I am actually three waterfalls combined.",
+            "I am located on the border of two countries."
+        ],
+        "fun_fact": "Niagara Falls can produce over 4 million kilowatts of electricity.",
+        "trivia": "Which is the largest of the three waterfalls? (Answer: Horseshoe Falls)"
+    }
+]
